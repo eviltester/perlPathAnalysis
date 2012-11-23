@@ -74,7 +74,7 @@ I have chosen to have the output to stdout redirected to the outputpairs1.txt fi
 ```
 #### Model
 
-![pairs1.gif](https://gitbug.com/eviltester/perlPathAnalysis/blob/master/modelgifs/pairs1.gif)
+![pairs1.gif](https://github.com/eviltester/perlPathAnalysis/blob/master/modelgifs/pairs1.gif)
 
 #### [output\outputpairs1.txt](https://github.com/eviltester/perlPathAnalysis/blob/master/output/outputpairs1.txt)
 ```
@@ -124,7 +124,7 @@ Examples
 ```
 #### Model
 
-![pairs1.gif](https://gitbug.com/eviltester/perlPathAnalysis/blob/master/modelgifs/pairs1.gif)
+![pairs1.gif](https://github.com/eviltester/perlPathAnalysis/blob/master/modelgifs/pairs1.gif)
 
 #### [output\outputpairs1.txt](https://github.com/eviltester/perlPathAnalysis/blob/master/output/outputpairs1.txt)
 ```
