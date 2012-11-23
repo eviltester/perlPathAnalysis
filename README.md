@@ -58,7 +58,7 @@ perl paths.pl pairs1.txt > outputpairs1.txt
 
 I have chosen to have the output to stdout redirected to the outputpairs1.txt file.
 
-#### input\pairs1.txt
+#### [input\pairs1.txt](https://github.com/eviltester/perlPathAnalysis/blob/master/input/pairs1.txt)
 ```
 - 0
 0 1
@@ -74,9 +74,9 @@ I have chosen to have the output to stdout redirected to the outputpairs1.txt fi
 ```
 #### Model
 
-![pairs1.gif](https://gitbug.com/eviltester/perlPathAnalysis/raw/master/modelgifs/pairs1.gif)
+![pairs1.gif](https://gitbug.com/eviltester/perlPathAnalysis/blob/master/modelgifs/pairs1.gif)
 
-#### output\outputpairs1.txt
+#### [output\outputpairs1.txt](https://github.com/eviltester/perlPathAnalysis/blob/master/output/outputpairs1.txt)
 ```
 - 0 1 2
 - 0 1 3 9 4
@@ -108,7 +108,7 @@ Examples
 
 #### Pairs1 - a general flow graph with basic selections
 
-#### input\pairs1.txt
+#### [input\pairs1.txt](https://github.com/eviltester/perlPathAnalysis/blob/master/input/pairs1.txt)
 ```
 - 0
 0 1
@@ -124,9 +124,9 @@ Examples
 ```
 #### Model
 
-![pairs1.gif](https://gitbug.com/eviltester/perlPathAnalysis/raw/master/modelgifs/pairs1.gif)
+![pairs1.gif](https://gitbug.com/eviltester/perlPathAnalysis/blob/master/modelgifs/pairs1.gif)
 
-#### output\outputpairs1.txt
+#### [output\outputpairs1.txt](https://github.com/eviltester/perlPathAnalysis/blob/master/output/outputpairs1.txt)
 ```
 - 0 1 2
 - 0 1 3 9 4
